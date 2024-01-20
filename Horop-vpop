@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-# Load the HTML pag.112333222
+# Load the HTML pag.11233222
 url = 'https://www.example.com'
 response = requests.get(url)
 html = response.text
